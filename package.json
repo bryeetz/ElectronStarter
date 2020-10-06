@@ -1,0 +1,26 @@
+{
+  "name": "electronstarter",
+  "version": "1.0.0",
+  "description": "This is just a little project to learn electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryeetz/ElectronStarter.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "bryan scheetz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryeetz/ElectronStarter/issues"
+  },
+  "homepage": "https://github.com/bryeetz/ElectronStarter#readme",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
